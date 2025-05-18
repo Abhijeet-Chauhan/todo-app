@@ -1,0 +1,5 @@
+clean
+play hockey
+play games
+play chess
+make soup
