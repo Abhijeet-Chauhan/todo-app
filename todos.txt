@@ -1,6 +1,5 @@
-clean
-play hockey
-play games
+clean code
 play chess
-make soup
 eat
+Hello
+lastly
